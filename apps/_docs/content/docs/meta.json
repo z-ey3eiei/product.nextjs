@@ -1,0 +1,22 @@
+{
+  "title": "ui",
+  "root": true,
+  "pages": [
+    "index",
+    "setup",
+    "structure",
+    "...",
+    "---Features---",
+    "authentication",
+    "analytics",
+    "blog",
+    "debugging",
+    "email",
+    "flags",
+    "formatting",
+    "payments",
+    "orm",
+    "---Guides---",
+    "database"
+  ]
+}
